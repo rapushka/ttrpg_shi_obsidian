@@ -13,15 +13,26 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: app.json"
+              "title": "Diff: graph.json"
+            }
+          },
+          {
+            "id": "efa44d530300dedf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d715a34e31d11462",
@@ -208,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80dcad74698233ea",
+  "active": "efa44d530300dedf",
   "lastOpenFiles": [
     "Welcome.md",
     "Untitled.base",
